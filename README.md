@@ -1,7 +1,8 @@
                                                          Hi there  ~ I'm Abrar Hyder :)
+                                                         
 I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.
 
-                                                       
+  <img align="center" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">                                                      
                                                         
                                                         
 
@@ -29,7 +30,7 @@ I am a Full Stack Web Developer, passionate about building digital products that
    
  }
  
- <img align="center" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abrar-hyder-0877715a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrar-hyder-0877715a/" height="30" width="40" /></a>
