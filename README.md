@@ -5,18 +5,18 @@ I am a Full Stack Web Developer, passionate about building digital products that
                                                         
                                                         
 
-import SoftwareDeveloper from 'India';
-class Bio extends SoftwareDeveloper {
-  name     = 'Abrar Hyder';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Bangalore, India';
-  availability = "Available to hire!!";
-}
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
-}
+ import SoftwareDeveloper from 'India';
+ class Bio extends SoftwareDeveloper {
+   name     = 'Abrar Hyder';
+   title    = 'Software Engineer' || 'Full Stack Web Developer';
+   location = 'Bangalore, India';
+   availability = "Available to hire!!";
+ }
+ class Skills extends SoftwareDeveloper {
+   frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
+ }
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abrar-hyder-0877715a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrar-hyder-0877715a/" height="30" width="40" /></a>
