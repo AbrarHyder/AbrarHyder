@@ -6,16 +6,26 @@ I am a Full Stack Web Developer, passionate about building digital products that
                                                         
 
  import SoftwareDeveloper from 'India';
+ 
  class Bio extends SoftwareDeveloper {
+ 
    name     = 'Abrar Hyder';
+   
    title    = 'Software Engineer' || 'Full Stack Web Developer';
+   
    location = 'Bangalore, India';
+   
    availability = "Available to hire!!";
+   
  }
  class Skills extends SoftwareDeveloper {
+ 
    frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+   
    backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+   
    ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
+   
  }
 
 ## 🌐 Socials:
