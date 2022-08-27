@@ -2,7 +2,9 @@
                                                          
 I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.
 
-  <img margin-left="20%" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">                                             
+
+
+         <img margin-left="20%" src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png">                                             
                                                         
                                                         
 
