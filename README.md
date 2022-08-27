@@ -1,4 +1,4 @@
-                                                         Hi there  ~ I'm Abrar Hyder :)
+                                            Hi there  ~ I'm Abrar Hyder :)
                                                          
 I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.
 
