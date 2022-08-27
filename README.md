@@ -1,4 +1,4 @@
-                                                         Hi there  ~ I'm Abrar Hyder
+                                                         Hi there  ~ I'm Abrar Hyder :)
 I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.
 
                                                         console.log("Hello World !!");
@@ -28,6 +28,8 @@ I am a Full Stack Web Developer, passionate about building digital products that
    ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
    
  }
+ 
+ <img src="https://www.seekpng.com/png/detail/36-363841_software-application-development-software-developer.png">
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abrar-hyder-0877715a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrar-hyder-0877715a/" height="30" width="40" /></a>
