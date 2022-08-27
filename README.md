@@ -18,6 +18,7 @@ I am a Full Stack Web Developer, passionate about building digital products that
    availability = "Available to hire!!";
    
  }
+ 
  class Skills extends SoftwareDeveloper {
  
    frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
