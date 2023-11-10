@@ -19,7 +19,7 @@ I am a Full Stack Web Developer, passionate about building digital products that
    
    title    = 'Software Engineer' || 'Full Stack Web Developer';
    
-   location = 'Bangalore, India';
+   location = 'Cambridge, UK';
    
    availability = "Available to hire!!";
    
