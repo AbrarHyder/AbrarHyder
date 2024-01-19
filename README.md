@@ -11,7 +11,7 @@ I am a Full Stack Web Developer, passionate about building digital products that
 
 
 
- import SoftwareDeveloper from 'India';
+ import SoftwareDeveloper from 'United Kingdom';
  
  class Bio extends SoftwareDeveloper {
  
